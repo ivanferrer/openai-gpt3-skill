@@ -1,0 +1,5 @@
+ask-sdk-core
+loggin
+os
+openai
+load-dotenv
